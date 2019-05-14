@@ -1,0 +1,55 @@
+ST,STATE,OCC_CODE,OCC_TITLE,OCC_GROUP,TOT_EMP,JOBS_1000,A_MEAN,MEAN_PRSE,A_MEDIAN
+AL,Alabama,15-0000,Computer and Mathematical Occupations,major,39760.0,20.68,81870,1,77590
+AK,Alaska,15-0000,Computer and Mathematical Occupations,major,5450.0,17.124,81820,2.3,76800
+AZ,Arizona,15-0000,Computer and Mathematical Occupations,major,93490.0,34.573,82940,1.2,79550
+AR,Arkansas,15-0000,Computer and Mathematical Occupations,major,23850.0,19.873,68360,2.5,64850
+CA,California,15-0000,Computer and Mathematical Occupations,major,590550.0,35.373,105380,0.9,100480
+CO,Colorado,15-0000,Computer and Mathematical Occupations,major,109450.0,42.832,95240,0.9,92520
+CT,Connecticut,15-0000,Computer and Mathematical Occupations,major,49630.0,29.999,91740,0.9,88330
+DE,Delaware,15-0000,Computer and Mathematical Occupations,major,17560.0,39.677,92630,1.6,90040
+DC,District of Columbia,15-0000,Computer and Mathematical Occupations,major,42910.0,60.584,106790,2.4,106240
+FL,Florida,15-0000,Computer and Mathematical Occupations,major,198940.0,23.63,76420,0.7,71670
+GA,Georgia,15-0000,Computer and Mathematical Occupations,major,140520.0,32.653,85890,1.1,81930
+HI,Hawaii,15-0000,Computer and Mathematical Occupations,major,9960.0,15.74,79790,2.1,77450
+ID,Idaho,15-0000,Computer and Mathematical Occupations,major,14110.0,20.577,70210,2.6,66290
+IL,Illinois,15-0000,Computer and Mathematical Occupations,major,172680.0,29.13,86820,0.7,83470
+IN,Indiana,15-0000,Computer and Mathematical Occupations,major,57410.0,19.018,72660,0.8,69080
+IA,Iowa,15-0000,Computer and Mathematical Occupations,major,35150.0,22.894,76700,1.3,74000
+KS,Kansas,15-0000,Computer and Mathematical Occupations,major,35900.0,26.219,74020,1.2,69460
+KY,Kentucky,15-0000,Computer and Mathematical Occupations,major,31120.0,16.584,68790,1.7,65270
+LA,Louisiana,15-0000,Computer and Mathematical Occupations,major,20000.0,10.516,63700,1.3,58510
+ME,Maine,15-0000,Computer and Mathematical Occupations,major,11370.0,18.969,74830,1.5,69910
+MD,Maryland,15-0000,Computer and Mathematical Occupations,major,124630.0,46.776,99010,1,95840
+MA,Massachusetts,15-0000,Computer and Mathematical Occupations,major,142010.0,40.251,96470,1.1,92400
+MI,Michigan,15-0000,Computer and Mathematical Occupations,major,111400.0,26.051,78810,0.8,75670
+MN,Minnesota,15-0000,Computer and Mathematical Occupations,major,94290.0,33.22,86710,1,82620
+MS,Mississippi,15-0000,Computer and Mathematical Occupations,major,11810.0,10.553,67820,1.8,61900
+MO,Missouri,15-0000,Computer and Mathematical Occupations,major,84520.0,30.31,78690,1.3,76030
+MT,Montana,15-0000,Computer and Mathematical Occupations,major,8150.0,17.68,63720,2.5,59070
+NE,Nebraska,15-0000,Computer and Mathematical Occupations,major,30240.0,31.169,75570,1,73820
+NV,Nevada,15-0000,Computer and Mathematical Occupations,major,19410.0,14.812,76820,2.5,72260
+NH,New Hampshire,15-0000,Computer and Mathematical Occupations,major,19140.0,29.442,88260,1.7,82050
+NJ,New Jersey,15-0000,Computer and Mathematical Occupations,major,139640.0,34.846,100540,1.4,94830
+NM,New Mexico,15-0000,Computer and Mathematical Occupations,major,14750.0,18.411,78240,2.9,72670
+NY,New York,15-0000,Computer and Mathematical Occupations,major,259090.0,28.138,95370,0.8,87930
+NC,North Carolina,15-0000,Computer and Mathematical Occupations,major,129080.0,30.03,86380,0.7,84120
+ND,North Dakota,15-0000,Computer and Mathematical Occupations,major,7420.0,17.812,66390,1.7,62770
+OH,Ohio,15-0000,Computer and Mathematical Occupations,major,148050.0,27.567,80690,1.1,76730
+OK,Oklahoma,15-0000,Computer and Mathematical Occupations,major,31440.0,19.989,69560,1.1,64980
+OR,Oregon,15-0000,Computer and Mathematical Occupations,major,53060.0,28.982,85750,2.3,82940
+PA,Pennsylvania,15-0000,Computer and Mathematical Occupations,major,158660.0,27.442,83060,0.7,78580
+RI,Rhode Island,15-0000,Computer and Mathematical Occupations,major,14490.0,30.454,85450,1.4,83280
+SC,South Carolina,15-0000,Computer and Mathematical Occupations,major,39530.0,19.672,72680,1.2,68200
+SD,South Dakota,15-0000,Computer and Mathematical Occupations,major,8040.0,19.17,64020,1.2,60090
+TN,Tennessee,15-0000,Computer and Mathematical Occupations,major,54730.0,18.77,74050,0.9,70140
+TX,Texas,15-0000,Computer and Mathematical Occupations,major,353460.0,29.725,89450,0.6,85020
+UT,Utah,15-0000,Computer and Mathematical Occupations,major,48640.0,34.483,80650,1.2,75810
+VT,Vermont,15-0000,Computer and Mathematical Occupations,major,7280.0,23.863,73330,1.5,69250
+VA,Virginia,15-0000,Computer and Mathematical Occupations,major,201680.0,53.215,100830,0.8,97390
+WA,Washington,15-0000,Computer and Mathematical Occupations,major,157400.0,49.395,107020,5.4,104360
+WV,West Virginia,15-0000,Computer and Mathematical Occupations,major,10880.0,15.798,69750,1.5,63210
+WI,Wisconsin,15-0000,Computer and Mathematical Occupations,major,76080.0,26.929,74520,0.9,71680
+WY,Wyoming,15-0000,Computer and Mathematical Occupations,major,2660.0,9.916,64030,1.8,60380
+GU,Guam,15-0000,Computer and Mathematical Occupations,major,580.0,9.468,51390,3.6,45890
+PR,Puerto Rico,15-0000,Computer and Mathematical Occupations,major,10660.0,12.175,43800,1.4,39000
+VI,Virgin Islands,15-0000,Computer and Mathematical Occupations,major,350.0,9.403,56010,3.6,49650
